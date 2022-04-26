@@ -1,0 +1,39 @@
+{
+  "name": "vite1toolkit",
+  "version": "1.0.0",
+  "description": "Initial setup of the project.  Created with TypeScript, Vite, React, Redux-Toolkit, and React-Router 6.",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigomx9/vite1toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigomx9/vite1toolkit/issues"
+  },
+  "homepage": "https://github.com/indigomx9/vite1toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "@types/react": "^18.0.7",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.1",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.5"
+  }
+}
+
+
